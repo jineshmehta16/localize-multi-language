@@ -1,0 +1,20 @@
+{
+  "name": "localize-multi-language",
+  "version": "1.0.0",
+  "description": "To Localize multiple language in a website use this simple package which can support this functioanlity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jineshmehta16/localize-multi-language.git"
+  },
+  "keywords": [
+    "Localize",
+    "MultiLanguage",
+    "Internationalization"
+  ],
+  "author": "Jinesh Mehta",
+  "license": "ISC"
+}
